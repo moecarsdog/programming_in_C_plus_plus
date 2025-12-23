@@ -1,2 +1,2 @@
-# programming_in_C_plus_plus
+# programming_in_cpp
 Intro to C++ programming
